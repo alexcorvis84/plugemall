@@ -20,7 +20,6 @@
 
 /************************ Example Starts Here *******************************/
 
-// digital pin 5
 #define TILT D6
 
 // button state
