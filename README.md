@@ -11,7 +11,10 @@ Taller de introducción 💊 al **'Internet de las Cosas' 📡 (IOT)** en el que
 
 ## Teoría:
 
-Descargar las 'Slides' del Taller 'PLUG 'EM ALL' en formato PDF. Material compartido bajo licencia Reconocimiento-CompartirIgual 3.0 España [CC BY-SA 3.0 ES](https://creativecommons.org/licenses/by-sa/3.0/es/)
+⬇️ Descargar las 'Slides' del Taller 'PLUG 'EM ALL' en formato PDF.
+💡 LEER 🤓 y seguir las instrucciones 📓 de las Prácticas 🛠️
+
+⚡ Material compartido bajo licencia Reconocimiento-CompartirIgual 3.0 España [CC BY-SA 3.0 ES](https://creativecommons.org/licenses/by-sa/3.0/es/)⚡
 
 ## Prácticas:
 
