@@ -14,3 +14,5 @@ Las prácticas están basadas en en los tutoriales y ejemplos de [AdafruitIO](ht
 
 [AdafruitIO Basics](https://learn.adafruit.com/welcome-to-adafruit-io/projects)
 [IFTT](https://ifttt.com/)
+
+![alt text](https://www.unioviedo.es/medialab/wp-content/uploads/2019/06/Cartel_CURSO-VERANO_bauhaus-1-768x1086.png "Experiencia Bauhaus 100")
