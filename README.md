@@ -4,7 +4,7 @@
 
 ## Descripción: 
 
-Taller de introducción 💊 al **'Internet de las Cosas' 📡 (IOT)** en el que se explican conceptos básicos necesarios para entender cómo podemos interconectar dispositivos, sensores y servicios para que puedan interactuar entre sí.
+Taller de introducción 💊 al **'Internet de las Cosas' 📡 (IOT)** en el que se explican conceptos básicos necesarios para entender cómo podemos interconectar 🔌 dispositivos, sensores 🌡️  y servicios 🌐 para que puedan interactuar 🔄 entre sí.
 
 ## Prácticas:
 
