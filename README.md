@@ -1,3 +1,6 @@
+![alt text](https://github.com/alexcorvis84/plugemall/blob/master/Images/PlugEmAll.png "Plug'Em All")
+
+
 # PLUG 'EM ALL 🛠️🔌⚡
 
 ## Taller Plug 'Em ALL - Sesión impartida por [AlexCorvis84](https://twitter.com/AlexCorvis84) de [MakersAsturias](http://makersasturias.com/) dentro de la programación del Curso de Verano [EXPERIENCIA BAUHAUS 100](https://www.unioviedo.es/medialab/actividades/experiencia-bauhaus-100/) del [MediaLab Uniovi](https://www.unioviedo.es/medialab/), durante 15-25 de JULIO 2019.
@@ -34,5 +37,4 @@ Las prácticas están basadas en en los tutoriales y ejemplos de **[AdafruitIO](
 
 ***
 
-![alt text](https://github.com/alexcorvis84/plugemall/blob/master/Images/PlugEmAll.png "Plug'Em All")
 ![alt text](https://www.unioviedo.es/medialab/wp-content/uploads/2019/06/Cartel_CURSO-VERANO_bauhaus-1-768x1086.png "Experiencia Bauhaus 100")
