@@ -37,7 +37,9 @@ Las prácticas están basadas en en los tutoriales y ejemplos de **[AdafruitIO](
 
 ## Recursos:
 
-* Necesario crear cuenta (gratuita) en [AdafruitIO](https://io.adafruit.com/). Material basado en [AdafruitIO Basics](https://learn.adafruit.com/welcome-to-adafruit-io/projects)
+* Necesario crear cuenta (gratuita) en [AdafruitIO](https://io.adafruit.com/). 
+
+* Material basado en [AdafruitIO Basics](https://learn.adafruit.com/welcome-to-adafruit-io/projects)
 
 * Necesario crear cuenta (gratuita) en [IFTT](https://ifttt.com/)
 
