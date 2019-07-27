@@ -10,11 +10,25 @@ Taller de introducción al Internet de las Cosas en el que se explican conceptos
 
 Las prácticas están basadas en en los tutoriales y ejemplos de [AdafruitIO](https://io.adafruit.com/) y ha sido modificados para trabajar con la placa Wemos [D1 Mini (ESP8266)](https://wiki.wemos.cc/products:d1:d1_mini)
 
+* Práctica 01 – Entrada Digital
+* Práctica 02 – Salida Digital
+* Práctica 03 – Entrada Analógica
+* Práctica 04 – Salida Analógica
+* Práctica 05 – Color (LED RGB)
+* Práctica 06 – Temperatura y Humedad (Sensor DHT22)
+* Práctica 07 – Servo
+* Práctica 08 – Distancia con ultrasonidos (HC-SR04)
+* Práctica 09 – Sensor PIR (PIR HC-SR501)
+* Práctica 10 – Sensor vibración (Montaje Sensor SW-420)
+* Práctica 11 - [Triggers Adafruit I0](https://learn.adafruit.com/crickit-and-adafruitio/setting-up-triggers)
+* Práctica 12 - [IFTT](https://ifttt.com/)
+* Práctica 13 – IFTTT [Aplicación para Móvil](https://play.google.com/store/apps/details?id=com.ifttt.ifttt&hl=es)
+
 ## Recursos:
 
-* [AdafruitIO Basics](https://learn.adafruit.com/welcome-to-adafruit-io/projects)
+* Necesario crear cuenta (gratuita) en AdafruitIO. Material basado en [AdafruitIO Basics](https://learn.adafruit.com/welcome-to-adafruit-io/projects)
 
-* [IFTT](https://ifttt.com/)
+* Necesario crear cuenta (gratuita) en [IFTT](https://ifttt.com/)
 
 ***
 
