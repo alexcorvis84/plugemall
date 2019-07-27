@@ -43,6 +43,8 @@ Las prácticas están basadas en en los tutoriales y ejemplos de **[AdafruitIO](
 
 * [Adafruit IO C++ Arduino API](https://github.com/adafruit/Adafruit_IO_Arduino)
 
+* Esquemas de conexionados del HW de las prácticas creados gracias al **software libre** [Fritzing](https://fritzing.org/home/)
+
 ***
 
 ![alt text](https://www.unioviedo.es/medialab/wp-content/uploads/2019/06/Cartel_CURSO-VERANO_bauhaus-1-768x1086.png "Experiencia Bauhaus 100")
