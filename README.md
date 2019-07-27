@@ -8,7 +8,7 @@ Taller de introducción al Internet de las Cosas en el que se explican conceptos
 
 ## Prácticas:
 
-Las prácticas están basadas en en los tutoriales y ejemplos de [AdafruitIO](https://io.adafruit.com/) y ha sido modificados para trabajar con la placa Wemos [D1 Mini (ESP8266)](https://wiki.wemos.cc/products:d1:d1_mini)
+Las prácticas están basadas en en los tutoriales y ejemplos de [AdafruitIO](https://io.adafruit.com/) y ha sido modificados para trabajar con la placa **[Wemos D1 Mini (ESP8266)](https://wiki.wemos.cc/products:d1:d1_mini)**
 
 * Práctica 01 – Entrada Digital
 * Práctica 02 – Salida Digital
@@ -29,6 +29,8 @@ Las prácticas están basadas en en los tutoriales y ejemplos de [AdafruitIO](ht
 * Necesario crear cuenta (gratuita) en AdafruitIO. Material basado en [AdafruitIO Basics](https://learn.adafruit.com/welcome-to-adafruit-io/projects)
 
 * Necesario crear cuenta (gratuita) en [IFTT](https://ifttt.com/)
+
+* [Adafruit IO C++ Arduino API](https://github.com/adafruit/Adafruit_IO_Arduino)
 
 ***
 
