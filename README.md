@@ -19,7 +19,7 @@ Taller de introducción 💊 al **'Internet de las Cosas' 📡 (IOT)** en el que
 
 ## Prácticas:
 
-Las prácticas están basadas en en los tutoriales y ejemplos de **[AdafruitIO](https://io.adafruit.com/)** y ha sido modificados para trabajar con la placa **[Wemos D1 Mini (ESP8266)](https://wiki.wemos.cc/products:d1:d1_mini)**
+Las prácticas están basadas en en los tutoriales y ejemplos de **[AdafruitIO](https://io.adafruit.com/)** habiendo sido modificados para trabajar con la placa **[Wemos D1 Mini (ESP8266)](https://wiki.wemos.cc/products:d1:d1_mini)**
 
 * Práctica 01 – Entrada Digital
 * Práctica 02 – Salida Digital
@@ -44,6 +44,8 @@ Las prácticas están basadas en en los tutoriales y ejemplos de **[AdafruitIO](
 * [Adafruit IO C++ Arduino API](https://github.com/adafruit/Adafruit_IO_Arduino)
 
 * Esquemas de conexiones del HardWare de las prácticas creados gracias al **software libre** [Fritzing](https://fritzing.org/home/)
+
+⚠️ Toda imagen/rescurso externo utilizado ha sido enlazado 🔗 a su **fuente original.** ⚠️
 
 ***
 
