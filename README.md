@@ -28,9 +28,9 @@ Las prácticas están basadas en en los tutoriales y ejemplos de **[AdafruitIO](
 * Práctica 05 – Color (LED RGB)
 * Práctica 06 – Temperatura y Humedad (Sensor DHT22)
 * Práctica 07 – Servo
-* Práctica 08 – Distancia con ultrasonidos (HC-SR04)
-* Práctica 09 – Sensor PIR (PIR HC-SR501)
-* Práctica 10 – Sensor vibración (Montaje Sensor SW-420)
+* Práctica 08 – Distancia con ultrasonidos (Sensor HC-SR04)
+* Práctica 09 – Sensor PIR (Sensor HC-SR501)
+* Práctica 10 – Sensor vibración (Sensor SW-420)
 * Práctica 11 - [Triggers Adafruit I0](https://learn.adafruit.com/crickit-and-adafruitio/setting-up-triggers)
 * Práctica 12 - [IFTT](https://ifttt.com/)
 * Práctica 13 – IFTTT [Aplicación para Móvil](https://play.google.com/store/apps/details?id=com.ifttt.ifttt&hl=es)
