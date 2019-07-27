@@ -9,6 +9,10 @@
 
 Taller de introducción 💊 al **'Internet de las Cosas' 📡 (IOT)** en el que se explican conceptos básicos necesarios para entender cómo podemos interconectar 🔌 dispositivos, sensores 🌡️  y servicios 🌐 para que puedan interactuar 🔄 entre sí.
 
+## Teoría:
+
+Descargar las 'Slides' del Taller 'PLUG 'EM ALL' en formato PDF. Material compartido bajo licencia Reconocimiento-CompartirIgual 3.0 España [CC BY-SA 3.0 ES](https://creativecommons.org/licenses/by-sa/3.0/es/)
+
 ## Prácticas:
 
 Las prácticas están basadas en en los tutoriales y ejemplos de **[AdafruitIO](https://io.adafruit.com/)** y ha sido modificados para trabajar con la placa **[Wemos D1 Mini (ESP8266)](https://wiki.wemos.cc/products:d1:d1_mini)**
