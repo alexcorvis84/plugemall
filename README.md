@@ -1,6 +1,6 @@
 # PLUG 'EM ALL 🛠️🔌⚡
 
-## Taller Plug 'Em ALL - Sesión impartida dentro del Curso de Verano [EXPERIENCIA BAUHAUS 100](https://www.unioviedo.es/medialab/actividades/experiencia-bauhaus-100/) del MediaLab Uniovi
+## Taller Plug 'Em ALL - Sesión impartida por [AlexCorvis84](https://twitter.com/AlexCorvis84) dentro de la programación del Curso de Verano [EXPERIENCIA BAUHAUS 100](https://www.unioviedo.es/medialab/actividades/experiencia-bauhaus-100/) del MediaLab Uniovi, durante 15-25 de JULIO 2019.
 
 ## Descripción: 
 
