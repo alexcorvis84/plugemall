@@ -56,3 +56,5 @@ Las prácticas están basadas en en los tutoriales y ejemplos de **[AdafruitIO](
 ***
 
 ![alt text](https://www.unioviedo.es/medialab/wp-content/uploads/2019/06/Cartel_CURSO-VERANO_bauhaus-1-768x1086.png "Experiencia Bauhaus 100")
+
+<img src="https://www.unioviedo.es/medialab/wp-content/uploads/2019/06/Cartel_CURSO-VERANO_bauhaus-1-768x1086.png" width="512" height="362" />
