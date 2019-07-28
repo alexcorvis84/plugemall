@@ -32,7 +32,7 @@ Las prácticas están basadas en en los tutoriales y ejemplos de **[AdafruitIO](
 * Práctica 09 – Sensor PIR (Sensor HC-SR501)
 * Práctica 10 – Sensor vibración (Sensor SW-420)
 * Práctica 11 - [Triggers Adafruit I0](https://learn.adafruit.com/crickit-and-adafruitio/setting-up-triggers)
-* Práctica 12 - [IFTT](https://ifttt.com/)
+* Práctica 12 - [IFTTT](https://ifttt.com/)
 * Práctica 13 – IFTTT [Aplicación para Móvil](https://play.google.com/store/apps/details?id=com.ifttt.ifttt&hl=es)
 
 <p align="center"> 
