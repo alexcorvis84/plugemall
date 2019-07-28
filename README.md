@@ -47,7 +47,7 @@ Las prácticas están basadas en en los tutoriales y ejemplos de **[AdafruitIO](
 
 * Esquemas de conexiones del HardWare de las prácticas creados gracias al **software libre** [Fritzing](https://fritzing.org/home/)
 
-⚠️ Toda imagen/rescurso externo utilizado ha sido enlazado 🔗 a su **fuente original.** ⚠️
+⚠️ Toda imagen/rescurso externo utilizado ha sido enlazado 🔗 a su **fuente original** ⚠️
 
 ***
 
