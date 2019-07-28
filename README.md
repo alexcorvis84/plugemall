@@ -35,6 +35,10 @@ Las prácticas están basadas en en los tutoriales y ejemplos de **[AdafruitIO](
 * Práctica 12 - [IFTT](https://ifttt.com/)
 * Práctica 13 – IFTTT [Aplicación para Móvil](https://play.google.com/store/apps/details?id=com.ifttt.ifttt&hl=es)
 
+<p align="center"> 
+<img src="https://github.com/alexcorvis84/plugemall/blob/master/Images/io-loading.gif">
+</p>
+
 ## Recursos:
 
 * Necesario crear cuenta (gratuita) en [AdafruitIO](https://io.adafruit.com/). 
