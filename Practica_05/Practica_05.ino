@@ -113,9 +113,9 @@ void handleMessage(AdafruitIO_Data *data) {
     ledcWrite(2, 255 - data->toGreen());
     ledcWrite(3, 255 - data->toBlue());
   #else
-    analogWrite(RED_PIN, data->toRed());
-    analogWrite(GREEN_PIN, data->toGreen());
-    analogWrite(BLUE_PIN, data->toBlue());
+    analogWrite(RED_PIN, 255 - data->toRed());
+    analogWrite(GREEN_PIN, 255 - data->toGreen());
+    analogWrite(BLUE_PIN, 255 - data->toBlue());
   #endif
   
 }
