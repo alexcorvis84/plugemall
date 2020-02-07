@@ -54,7 +54,3 @@ Las prácticas están basadas en en los tutoriales y ejemplos de **[AdafruitIO](
 ⚠️ Toda imagen/rescurso externo utilizado ha sido enlazado 🔗 a su **fuente original** ⚠️
 
 ***
-
-<p align="center"> 
-<img src="https://www.unioviedo.es/medialab/wp-content/uploads/2019/06/Cartel_CURSO-VERANO_bauhaus-1-768x1086.png" width="362" height="512" />
-</p>
